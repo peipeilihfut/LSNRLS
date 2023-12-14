@@ -6,7 +6,7 @@
 <H2>References</H2>
 This work has been published in Information Science:
 <P>
-  Zou Y, Hu X, Li P. Gradient-based multi-label feature selection considering three-way variable interaction[J]. Pattern Recognition, 2024, 145: 109900.
+  Zou Y, Hu X, Li P, et al. Learning Shared and Non-Redundant Label-Specific Features for Partial Multi-Label Classification[J]. Information Sciences, 2023: 119917.
 </P>
 
 <H2>Source codes</H2>
